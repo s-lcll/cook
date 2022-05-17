@@ -1,0 +1,10 @@
+﻿  cook.cpp
+D:\Visual Studio 2022\C++\cook\cook.cpp(25,13): warning C4129: 'e': 無法辨識的字元逸出序列
+D:\Visual Studio 2022\C++\cook\cook.cpp(78,25): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Visual Studio 2022\C++\cook\cook.cpp(81,25): warning C4244: '=': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Visual Studio 2022\C++\cook\cook.cpp(93,43): warning C4244: 'return': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Visual Studio 2022\C++\cook\cook.cpp(94,42): warning C4244: 'return': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Visual Studio 2022\C++\cook\cook.cpp(261,19): warning C4244: '正在初始化': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\Visual Studio 2022\C++\cook\cook.cpp(274,33): warning C4101: 'e': 未參考的區域變數
+D:\Visual Studio 2022\C++\cook\cook.cpp(553,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  cook.vcxproj -> D:\Visual Studio 2022\C++\cook\x64\Debug\cook.exe
